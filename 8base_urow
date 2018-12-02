@@ -1,0 +1,353 @@
+#8base urow
+
+{
+  "data": {
+    "coachesList": {
+      "items": [
+        {
+          "firstName": "Edward",
+          "lastName": "Sanderson",
+          "position": "Head Coach",
+          "email": " dsanderson@miami.edu"
+        },
+        {
+          "firstName": "Lindsey",
+          "lastName": "Shoop",
+          "position": "Assistant Coach",
+          "email": "lshoop@miami.edu"
+        },
+        {
+          "firstName": "Cristina",
+          "lastName": "Marcom",
+          "position": "Graduate Assistant Coach",
+          "email": null
+        },
+        {
+          "firstName": "Colin",
+          "lastName": "Reagan",
+          "position": "Assistant Coach",
+          "email": null
+        },
+        {
+          "firstName": "Claire",
+          "lastName": "Frankel",
+          "position": "Assistant Coach",
+          "email": " cfrenkel21@miami.edu"
+        }
+      ]
+    },
+    "athletesList": {
+      "items": [
+        {
+          "firstName": "Katarzyna",
+          "lastName": "Pasternak",
+          "position": [
+            "Port",
+            "Starboard",
+            "Scull"
+          ],
+          "graduation": "Spring 2020",
+          "height": 178,
+          "weight": 220,
+          "workoutRange": {
+            "lR": 145,
+            "lE": 160,
+            "lD": 175,
+            "lC": 224,
+            "lB": 275,
+            "lA": 420
+          },
+          "log": {
+            "items": [
+              {
+                "workoutDate": "2018-12-01T12:30:00.000Z",
+                "timePerPiece": [
+                  300,
+                  300,
+                  300,
+                  300
+                ],
+                "distancePerPiece": [
+                  1122,
+                  1163,
+                  1157,
+                  1179
+                ],
+                "caloriesPerPiece": [
+                  67,
+                  71,
+                  71,
+                  73
+                ],
+                "aveWattsPerPiece": [
+                  146,
+                  163,
+                  161,
+                  170
+                ]
+              },
+              {
+                "workoutDate": "2018-09-23T13:30:00.000Z",
+                "timePerPiece": [
+                  1178
+                ],
+                "distancePerPiece": [
+                  5000
+                ],
+                "caloriesPerPiece": [
+                  336
+                ],
+                "aveWattsPerPiece": [
+                  214
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "firstName": "Emily",
+          "lastName": "Kean",
+          "position": [
+            "Port"
+          ],
+          "graduation": "Spring 2021",
+          "height": 173,
+          "weight": 160,
+          "workoutRange": {
+            "lR": 145,
+            "lE": 160,
+            "lD": 175,
+            "lC": 224,
+            "lB": 275,
+            "lA": 420
+          },
+          "log": {
+            "items": [
+              {
+                "workoutDate": "2018-11-27T11:00:00.000Z",
+                "timePerPiece": [
+                  1200
+                ],
+                "distancePerPiece": [
+                  5000
+                ],
+                "caloriesPerPiece": [
+                  311
+                ],
+                "aveWattsPerPiece": [
+                  203
+                ]
+              },
+              {
+                "workoutDate": "2018-10-29T07:30:00.000Z",
+                "timePerPiece": [
+                  1200,
+                  1200,
+                  1200
+                ],
+                "distancePerPiece": [
+                  4615,
+                  4658,
+                  47969
+                ],
+                "caloriesPerPiece": [
+                  313,
+                  330,
+                  338
+                ],
+                "aveWattsPerPiece": [
+                  159,
+                  163,
+                  175
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "firstName": "Arianna",
+          "lastName": "Pena-Almena",
+          "position": [
+            "Coxwain"
+          ],
+          "graduation": "Spring 2019",
+          "height": 157,
+          "weight": 110,
+          "workoutRange": null,
+          "log": {
+            "items": []
+          }
+        },
+        {
+          "firstName": "Jacqline",
+          "lastName": "Lippincott",
+          "position": [
+            "Coxwain"
+          ],
+          "graduation": "Spring 2019",
+          "height": 162,
+          "weight": 110,
+          "workoutRange": null,
+          "log": {
+            "items": []
+          }
+        },
+        {
+          "firstName": "Madeline",
+          "lastName": "Martinez",
+          "position": [
+            "Starboard"
+          ],
+          "graduation": "Spring 2020",
+          "height": 170,
+          "weight": 150,
+          "workoutRange": {
+            "lR": 130,
+            "lE": 145,
+            "lD": 160,
+            "lC": 190,
+            "lB": 230,
+            "lA": 330
+          },
+          "log": {
+            "items": []
+          }
+        },
+        {
+          "firstName": "Savannah",
+          "lastName": "Alario",
+          "position": [
+            "Starboard",
+            "Port"
+          ],
+          "graduation": "Spring 2021",
+          "height": 175,
+          "weight": 155,
+          "workoutRange": {
+            "lR": 135,
+            "lE": 150,
+            "lD": 165,
+            "lC": 205,
+            "lB": 245,
+            "lA": 350
+          },
+          "log": {
+            "items": []
+          }
+        },
+        {
+          "firstName": "Laura",
+          "lastName": "Alcorn",
+          "position": [
+            "Port"
+          ],
+          "graduation": "Spring 2021",
+          "height": 178,
+          "weight": 170,
+          "workoutRange": {
+            "lR": 140,
+            "lE": 155,
+            "lD": 170,
+            "lC": 215,
+            "lB": 260,
+            "lA": 380
+          },
+          "log": {
+            "items": [
+              {
+                "workoutDate": "2018-11-13T08:30:00.000Z",
+                "timePerPiece": [
+                  1200,
+                  1200,
+                  1200
+                ],
+                "distancePerPiece": [
+                  4615,
+                  4660,
+                  4771
+                ],
+                "caloriesPerPiece": [
+                  313,
+                  330,
+                  338
+                ],
+                "aveWattsPerPiece": [
+                  159,
+                  164,
+                  176
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "firstName": "Halle",
+          "lastName": "Alitz",
+          "position": [
+            "Port"
+          ],
+          "graduation": "Spring 2020",
+          "height": 175,
+          "weight": 145,
+          "workoutRange": {
+            "lR": 140,
+            "lE": 155,
+            "lD": 170,
+            "lC": 215,
+            "lB": 260,
+            "lA": 380
+          },
+          "log": {
+            "items": []
+          }
+        },
+        {
+          "firstName": "Rebecca",
+          "lastName": "Camplin",
+          "position": [
+            "Port"
+          ],
+          "graduation": "Spring 2021",
+          "height": 170,
+          "weight": 135,
+          "workoutRange": {
+            "lR": 140,
+            "lE": 155,
+            "lD": 170,
+            "lC": 215,
+            "lB": 260,
+            "lA": 380
+          },
+          "log": {
+            "items": []
+          }
+        },
+        {
+          "firstName": "Loretta",
+          "lastName": "Bruckner",
+          "position": [
+            "Starboard",
+            "Scull"
+          ],
+          "graduation": "Spring 2020",
+          "height": 177,
+          "weight": 150,
+          "workoutRange": {
+            "lR": 135,
+            "lE": 150,
+            "lD": 165,
+            "lC": 205,
+            "lB": 245,
+            "lA": 350
+          },
+          "log": {
+            "items": []
+          }
+        }
+      ]
+    }
+  },
+  "loading": false,
+  "networkStatus": 7,
+  "stale": false
+}
